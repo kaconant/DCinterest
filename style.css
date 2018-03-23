@@ -1,0 +1,20 @@
+.navbar-brand {
+    padding-left: 5%;
+}
+
+.navbar-nav {
+    padding-right: 5%;
+}
+
+.card {
+    width: 200px;
+    padding-top: 2%;
+    border: none !important;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
