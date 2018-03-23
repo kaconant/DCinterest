@@ -8,8 +8,7 @@
 
 .card {
     width: 200px;
-    padding-top: 2%;
-    border: none !important;
+    margin-top: 2%;
 }
 
 .cards {
